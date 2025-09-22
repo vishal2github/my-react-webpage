@@ -11,6 +11,8 @@ function App() {
       <main>
         <p>This is a simple webpage created using React.</p>
         <button onClick={() => alert("Button clicked!")}>Click Me</button>
+        <h1>VISHAL BHARDWAJ</h1>
+        <p>Hello world! Have a good day!</p>
       </main>
       
       <footer className="App-footer">
